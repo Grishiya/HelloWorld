@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        System.out.println("Proverka izmeneniy");
+        System.out.println("Бежал вперед паравоза");
+        System.out.println("Привет,Мир!");
     }
 }
